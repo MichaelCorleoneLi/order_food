@@ -1,2 +1,5 @@
-# order_food
-Order food by WX_APP
+# 微信点餐小程序
+
+## 架构
+- Flask
+- Mysql
